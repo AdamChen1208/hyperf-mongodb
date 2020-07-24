@@ -1,0 +1,2 @@
+# hyperf-mongodb
+基于hyperf的mongodb连接池组件，暂不支持协程。基于composer项目yumufenghyperf-mongodb和项目mongodb/mongodb做了个性化的优化。
